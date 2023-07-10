@@ -1,2 +1,0 @@
-# React
-Ejercicios de React
