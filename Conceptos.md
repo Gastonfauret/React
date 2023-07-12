@@ -6,12 +6,13 @@
 2 Ventajas de React.
 3 Estados (state).
 4 Hooks.
-5 Event Listener o Event Handle.
+5 Event Listener o Event Handler.
 6 JSX.
 7 Elementos JSX.
 8 React DOM.
 9 Atributos.
 10 Estructura.
+11 Creacion de Proyecto.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -134,6 +135,20 @@ Ejemplo: <div className='header'></div>
 
 10 Estructura
 
-47:45
+Al igual que en HTML, los elementos pueden ser anidados en JSX para formar estructuras mas complejas.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+
+11 Creacion de Proyecto.
+
+Para crear el proyecto desde cero en una carpeta espesifica, debemos poner en la terminal el comando: 
+    
+    - npx create-react-app nombre-de-la-carpeta-que-se-creara
+
+Para crear el proyecto en la carpeta en que estamos ubicados, el comando es el siguiente:
+
+    - npx create-react-app .
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+1:26:22
