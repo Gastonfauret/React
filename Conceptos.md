@@ -13,6 +13,7 @@
 9 Atributos.
 10 Estructura.
 11 Creacion de Proyecto.
+12 Creacion de Proyecto con Vite.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -151,4 +152,20 @@ Para crear el proyecto en la carpeta en que estamos ubicados, el comando es el s
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-1:26:22
+12 Creacion de Proyecto con Vite.
+
+    - npm create vite@latest <nombre-de-mi-proyecto>
+
+    - Seleccion de Framework: React.
+
+    - Seleccion de Lenguaje: Javascript.
+
+    - Posicionamiento en la Carpeta del Proyecto creada: cd <nombre-de-mi-proyecto>.
+
+    - Ubicado en la carpeta, instalamos los modulos de npm: npm install.
+
+    - Finalmente, iniciamos el proyecto de manera local: npm run dev.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+3:52:05
