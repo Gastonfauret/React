@@ -1,6 +1,5 @@
 import '../styles/App.css'
-import TareaFormulario from './TareaFormulario'
-//import Tarea from './Tarea'
+import ListaDeTareas from './ListaDeTareas'
 
 function App(props) {
 
@@ -10,7 +9,7 @@ function App(props) {
         <p>Gaston Fauret Developer</p>
         <div className="tareas-lista-principal">
           <h1>Mis Tareas</h1>
-          
+          <ListaDeTareas  />
         </div>
       </div>
     </>
